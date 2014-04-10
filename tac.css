@@ -1,0 +1,55 @@
+Deliana-s-Tic-Tac-Toe
+=====================
+
+Tic Tac Toe experiment
+
+
+body{
+    background-color: #00ccff;
+    margin-left: 100px;
+    font-family: tahoma;
+}
+
+h1{
+    color: gray;
+    margin-left:10px;
+}
+
+h2{
+    color: navy;
+    margin-top:20px;
+    margin-bottom: -30px;
+}
+
+h4{
+    font-family: Verdana;
+    color: navy;
+    margin-left: 100;
+    margin-top: -20px;
+}
+
+table{
+   border: gray 10px solid;
+  
+}
+
+#button{
+    margin-top: 20px;
+    border: 2px solid gray;
+	left: 229px;
+	bottom: -20px;
+	border-radius: 5px;
+	background-color: #cc0323;
+	height: 30px;
+	width: 150px;
+}
+
+#button a{
+    text-decoration:none;
+    color: white;
+    position: relative;
+	bottom: 10px;
+	font-size: 0.8em;
+	text-align: center;
+	left: .3em;
+}
